@@ -2,10 +2,10 @@
 
 ## Estrutura
 
-* `exercicio1/` → Calculadora Modular
-* `exercicio2/` → Análise de Array
-* `exercicio3/` → Manipulador de Strings
-* `exercicio4/` → Sistema de Gestão de Notas
+* `exercicio1` → Calculadora Modular
+* `exercicio2` → Análise de Array
+* `exercicio3` → Manipulador de Strings
+* `exercicio4` → Sistema de Gestão de Notas
 
 ---
 
