@@ -1,6 +1,6 @@
 # aula08-ling-programacao
 
-## 📂 Estrutura
+## Estrutura
 
 * `exercicio1/` → Calculadora Modular
 * `exercicio2/` → Análise de Array
@@ -14,15 +14,13 @@
 ### Linux/Mac
 
 ```bash
-gcc exercicio1/exercicio1.c -o exercicio1
-./exercicio1
+gcc exercicioX/exercicioX.c -o exercicioX
+./exercicioX
 ```
 
 ### Windows (MinGW)
 
 ```bash
-gcc exercicio1\exercicio1.c -o exercicio1.exe
-exercicio1.exe
+gcc exercicioX\exercicioX.c -o exercicioX.exe
+exercicioX.exe
 ```
-
-Repita para `exercicio2.c`, `exercicio3.c` e `exercicio4.c`.
